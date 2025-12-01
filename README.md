@@ -1,7 +1,5 @@
 # ifc-ha
 Custom integration to show IFC - International Fixed Calendar - in your HA dashboard
 
-Adding it is done via configuration.yaml, and is as  simple as:
-# International Fixed Calendar
-sensor:
-  - platform: ifc
+Download folder and placce it under custom_components
+Has to be added in configuration.yaml as a new sensor, platform: ifc
