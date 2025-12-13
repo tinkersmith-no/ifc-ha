@@ -6,6 +6,7 @@ You can read more about the International Fixed Calendar here:
 👉 https://tinkersmith.no/calendar
 
 ## Sensor
+
 The integration creates a single sensor:
 ```
 sensor.ifc_date
@@ -79,6 +80,8 @@ Monday 01. January 2025
 {{ state_attr('sensor.ifc_date', 'month_name') }}
 {{ state_attr('sensor.ifc_date', 'year') }}
 ```
+![screenshot](https://github.com/user-attachments/assets/581a4a3c-0861-4908-8742-93a24111c30b)
+
 Example: compact format
 ```
 Mon 11 Dec
