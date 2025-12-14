@@ -45,11 +45,6 @@ All attributes are localized automatically based on Home Assistant’s configure
 ## Default state format
 
 The default sensor state is intentionally neutral and machine-friendly:
-
-
-## Default state format
-
-The default sensor state is intentionally neutral and machine-friendly:
 ```
 YYYY-MM-DD (Month Day Year)
 ```
